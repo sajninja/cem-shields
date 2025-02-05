@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 61,
+        "description": "By SajNinja <3",
+        "supported_formats": {
+          "min_inclusive": 0,
+          "max_inclusive": 70
+        }
+    }
+}
