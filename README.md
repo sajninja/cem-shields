@@ -16,4 +16,6 @@ Leaving it blank allows the game to act as it normally would, and we can replace
 In textures/entity/shield, all the banner patterns have been adjusted to become square and fit the new shield.
 Their position on the texture aligns with that of the shield's plate, ensuring they display in the correct place.
 
+In the vanilla texture shield_base, the portion displaying a white banner doesn't seem to really matter, since the base color of a banner counts as a layer that gets applied over it.
+
 The shield item models serve to make the shield look good when displayed, making it bigger and positioned correctly in the player's hand and in GUIs.
